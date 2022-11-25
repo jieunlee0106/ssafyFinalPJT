@@ -22,8 +22,8 @@
 
 # 2. 구현 할고리즘
 
-![img](img/005.JPG)
-![img](img/E006.JPG)
+![img](img/005.PNG)
+![img](img/E006.PNG)
 # 3. 데이터 베이스 모델링 (ERD)
 
 ![ERD](img/ERD.JPG)
