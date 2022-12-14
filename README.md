@@ -4,18 +4,31 @@
 
 [프로젝트 메모 및 공유 : Notion](https://rose-mushroom-2f9.notion.site/1791c848606e4b30a543c6bc34284f95)
 
-# 1. 팀원 정보 및 업무 분담 내역
+# 1. 프로젝트 개요 및 팀원 업무 분담 내역
 
-- 개발 기간: 2022.11.16 ~ 2022.11.25 (총 9일)
-  공동  
-  - 전체적인 틀 구성  
-  - 노션 관리
-- 류원창
+😊 개발 기간: 2022.11.16 ~ 2022.11.25 (총 9일)
+
+🎮 개발 도구 
+- Python
+  - Python 3
+  - Django 3.2.12
+  - Django REST framework
+- HTML, CSS, JavaScript
+  - Bootstrap 5
+  - Tailwind 3
+- Vue 2
+  - Vuex
+  - Vue Router
+
+
+😎 류원창
   - 전체적인 틀 구성
   - 유저 (FE, BE)
   - 영화 전체, 장르별, 디테일 페이지 구성
   - 감정, 랜덤 영화 추천페이지 구성
-- 이지은  
+
+
+👩 이지은  
   - 백엔드(Django API Server. 영화 API를 활용한 Data Seeding, API 가이드) & 프론트엔드 담당(Bootstrap 5, Vue.js, UI   구현, 디자인)  
 
 # 2. 구현 기능 및 알고리즘
